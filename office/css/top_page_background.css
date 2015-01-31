@@ -1,6 +1,7 @@
 .header {
-    background:transparent url(../images/header-background.jpg) no-repeat  bottom center;
+  background:transparent url(../images/header-background.png) no-repeat  bottom center;
+  background-size: 320px 320px;
 }
 .header_content {
-    padding-bottom: 390px;
+    padding-bottom: 280px;
 }
