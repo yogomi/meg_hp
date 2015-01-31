@@ -126,7 +126,7 @@ h1 {
     font-size: 24px;
     font-weight: lighter;
     padding: 5px 10px;
-    margin: 20px 0px;
+    margin: 30px 0px;
     border-left: 5px solid #006ad5;
     border-bottom: 3px solid #333;;
 }
@@ -134,14 +134,14 @@ h2 {
     font-size: 18px;
     font-weight: lighter;
     padding: 3px 20px;
-    margin: 20px 0px 20px 40px;
+    margin: 30px 0px 30px 40px;
     border-left: 2px solid #006ad5;
     border-bottom: 2px solid #333;;
 }
 
 h3 {
     padding: 3px 20px;
-    margin: 20px 0px 20px 40px;
+    margin: 30px 0px 30px 40px;
 }
 
 h4 {
@@ -190,5 +190,5 @@ address {
 }
 
 section {
-  padding-bottom: 50px;
+  padding-bottom: 30px;
 }
