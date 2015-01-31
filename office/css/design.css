@@ -51,6 +51,10 @@ img {
     color:#2b95ff;
 }
 
+.map {
+  padding:20px 0px 0px 60px;
+}
+
 .select_lang {
     float:right;
     height:30px;
