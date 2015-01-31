@@ -68,7 +68,6 @@ img {
 }
 
 .select_lang a:hover {
-    border-top:2px solid #2b95ff;
     color:#2b95ff;
 }
 
@@ -96,7 +95,7 @@ img {
     margin: 0 4px;
 }
 .footer_navigation ul li a {
-    border-top:2px solid #2b95ff;
+    border-top:2px solid #1d2b38;
     padding: 4px 20px 4px 20px;
     color:#1d2b38;
     text-decoration: none;
