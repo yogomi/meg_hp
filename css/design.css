@@ -12,13 +12,11 @@ body {
 }
 
 .inner {
-    width:955px;
+    width:880px;
     margin:0 auto;
 }
 img {
     border:none;
-}
-.header {
 }
 .header_content {
     position: relative;
@@ -41,9 +39,9 @@ img {
     margin: 0 4px;
 }
 .header_navigation ul li a {
-    border-top:2px solid #1d2b38;
+    border-top:2px solid #d5eaff;
     padding: 4px 20px 4px 20px;
-    color:#1d2b38;
+    color:#d5eaff;
     text-decoration: none;
     font-size: 13px;
     display: block;
@@ -63,10 +61,15 @@ img {
     float:right;
     margin: 0 4px;
     padding: 4px 20px 4px 20px;
-    color:#1d2b38;
+    color:#d5eaff;
     text-decoration: none;
     font-size: 13px;
     display: block;
+}
+
+.select_lang a:hover {
+    border-top:2px solid #2b95ff;
+    color:#2b95ff;
 }
 
 .header-logo {
@@ -100,7 +103,7 @@ img {
     font-size: 13px;
 }
 .footer_navigation ul li a:hover {
-    border-top:2px solid #f8d424;
+    border-top:2px solid #2b95ff;
     color:#2b95ff;
 }
 
