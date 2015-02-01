@@ -40,7 +40,7 @@ img {
 }
 .header_navigation ul li a {
     border-top:2px solid #d5eaff;
-    padding: 4px 20px 4px 20px;
+    padding: 4px 10px 4px 10px;
     color:#d5eaff;
     text-decoration: none;
     font-size: 13px;
@@ -78,6 +78,23 @@ img {
 .header-logo {
 	position: absolute;
 	padding: 10px;
+}
+
+.company-title {
+  color:#d5eaff;
+  font-family:sans-serif;
+  font-weight:bold;
+  font-size:18px;
+  float:left;
+}
+
+.company-name {
+  color:#d5eaff;
+  font-family:sans-serif;
+  font-weight:bold;
+  font-size:32px;
+  padding:0px 8px;
+  float:left;
 }
 
 .footer {
